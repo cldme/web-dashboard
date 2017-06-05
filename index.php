@@ -197,7 +197,7 @@
         <div class="col-md-5">
         <dl class="dl-horizontal">
           <span id="steps"><dt>Steps</dt><dd>400</dd></span>
-          <span id="blinks"><dt>Blinks</dt><dd>250</dd></span>
+          <span id="blinks"><dt>Blinks</dt><dd>260</dd></span>
           <span id="mood"><dt>Mood</dt><dd>creative</dd></span>
         </dl>
         </div>        
